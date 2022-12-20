@@ -1,0 +1,15 @@
+C:\Study\dotNet\Exercicios\Exercicio6\bin\Debug\net7.0\Exercicio6.exe
+C:\Study\dotNet\Exercicios\Exercicio6\bin\Debug\net7.0\Exercicio6.deps.json
+C:\Study\dotNet\Exercicios\Exercicio6\bin\Debug\net7.0\Exercicio6.runtimeconfig.json
+C:\Study\dotNet\Exercicios\Exercicio6\bin\Debug\net7.0\Exercicio6.dll
+C:\Study\dotNet\Exercicios\Exercicio6\bin\Debug\net7.0\Exercicio6.pdb
+C:\Study\dotNet\Exercicios\Exercicio6\obj\Debug\net7.0\Exercicio6.csproj.AssemblyReference.cache
+C:\Study\dotNet\Exercicios\Exercicio6\obj\Debug\net7.0\Exercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\dotNet\Exercicios\Exercicio6\obj\Debug\net7.0\Exercicio6.AssemblyInfoInputs.cache
+C:\Study\dotNet\Exercicios\Exercicio6\obj\Debug\net7.0\Exercicio6.AssemblyInfo.cs
+C:\Study\dotNet\Exercicios\Exercicio6\obj\Debug\net7.0\Exercicio6.csproj.CoreCompileInputs.cache
+C:\Study\dotNet\Exercicios\Exercicio6\obj\Debug\net7.0\Exercicio6.dll
+C:\Study\dotNet\Exercicios\Exercicio6\obj\Debug\net7.0\refint\Exercicio6.dll
+C:\Study\dotNet\Exercicios\Exercicio6\obj\Debug\net7.0\Exercicio6.pdb
+C:\Study\dotNet\Exercicios\Exercicio6\obj\Debug\net7.0\Exercicio6.genruntimeconfig.cache
+C:\Study\dotNet\Exercicios\Exercicio6\obj\Debug\net7.0\ref\Exercicio6.dll

@@ -1,0 +1,15 @@
+C:\Study\dotNet\Exercicios\Exercicio20\bin\Debug\net7.0\Exercicio20.exe
+C:\Study\dotNet\Exercicios\Exercicio20\bin\Debug\net7.0\Exercicio20.deps.json
+C:\Study\dotNet\Exercicios\Exercicio20\bin\Debug\net7.0\Exercicio20.runtimeconfig.json
+C:\Study\dotNet\Exercicios\Exercicio20\bin\Debug\net7.0\Exercicio20.dll
+C:\Study\dotNet\Exercicios\Exercicio20\bin\Debug\net7.0\Exercicio20.pdb
+C:\Study\dotNet\Exercicios\Exercicio20\obj\Debug\net7.0\Exercicio20.csproj.AssemblyReference.cache
+C:\Study\dotNet\Exercicios\Exercicio20\obj\Debug\net7.0\Exercicio20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\dotNet\Exercicios\Exercicio20\obj\Debug\net7.0\Exercicio20.AssemblyInfoInputs.cache
+C:\Study\dotNet\Exercicios\Exercicio20\obj\Debug\net7.0\Exercicio20.AssemblyInfo.cs
+C:\Study\dotNet\Exercicios\Exercicio20\obj\Debug\net7.0\Exercicio20.csproj.CoreCompileInputs.cache
+C:\Study\dotNet\Exercicios\Exercicio20\obj\Debug\net7.0\Exercicio20.dll
+C:\Study\dotNet\Exercicios\Exercicio20\obj\Debug\net7.0\refint\Exercicio20.dll
+C:\Study\dotNet\Exercicios\Exercicio20\obj\Debug\net7.0\Exercicio20.pdb
+C:\Study\dotNet\Exercicios\Exercicio20\obj\Debug\net7.0\Exercicio20.genruntimeconfig.cache
+C:\Study\dotNet\Exercicios\Exercicio20\obj\Debug\net7.0\ref\Exercicio20.dll

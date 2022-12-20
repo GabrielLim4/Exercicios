@@ -1,0 +1,15 @@
+C:\Study\dotNet\Exercicios\Exercicio17\bin\Debug\net7.0\Exercicio17.exe
+C:\Study\dotNet\Exercicios\Exercicio17\bin\Debug\net7.0\Exercicio17.deps.json
+C:\Study\dotNet\Exercicios\Exercicio17\bin\Debug\net7.0\Exercicio17.runtimeconfig.json
+C:\Study\dotNet\Exercicios\Exercicio17\bin\Debug\net7.0\Exercicio17.dll
+C:\Study\dotNet\Exercicios\Exercicio17\bin\Debug\net7.0\Exercicio17.pdb
+C:\Study\dotNet\Exercicios\Exercicio17\obj\Debug\net7.0\Exercicio17.csproj.AssemblyReference.cache
+C:\Study\dotNet\Exercicios\Exercicio17\obj\Debug\net7.0\Exercicio17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\dotNet\Exercicios\Exercicio17\obj\Debug\net7.0\Exercicio17.AssemblyInfoInputs.cache
+C:\Study\dotNet\Exercicios\Exercicio17\obj\Debug\net7.0\Exercicio17.AssemblyInfo.cs
+C:\Study\dotNet\Exercicios\Exercicio17\obj\Debug\net7.0\Exercicio17.csproj.CoreCompileInputs.cache
+C:\Study\dotNet\Exercicios\Exercicio17\obj\Debug\net7.0\Exercicio17.dll
+C:\Study\dotNet\Exercicios\Exercicio17\obj\Debug\net7.0\refint\Exercicio17.dll
+C:\Study\dotNet\Exercicios\Exercicio17\obj\Debug\net7.0\Exercicio17.pdb
+C:\Study\dotNet\Exercicios\Exercicio17\obj\Debug\net7.0\Exercicio17.genruntimeconfig.cache
+C:\Study\dotNet\Exercicios\Exercicio17\obj\Debug\net7.0\ref\Exercicio17.dll

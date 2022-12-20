@@ -1,0 +1,15 @@
+C:\Study\dotNet\Exercicios\Exercicio10\bin\Debug\net7.0\Exercicio10.exe
+C:\Study\dotNet\Exercicios\Exercicio10\bin\Debug\net7.0\Exercicio10.deps.json
+C:\Study\dotNet\Exercicios\Exercicio10\bin\Debug\net7.0\Exercicio10.runtimeconfig.json
+C:\Study\dotNet\Exercicios\Exercicio10\bin\Debug\net7.0\Exercicio10.dll
+C:\Study\dotNet\Exercicios\Exercicio10\bin\Debug\net7.0\Exercicio10.pdb
+C:\Study\dotNet\Exercicios\Exercicio10\obj\Debug\net7.0\Exercicio10.csproj.AssemblyReference.cache
+C:\Study\dotNet\Exercicios\Exercicio10\obj\Debug\net7.0\Exercicio10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\dotNet\Exercicios\Exercicio10\obj\Debug\net7.0\Exercicio10.AssemblyInfoInputs.cache
+C:\Study\dotNet\Exercicios\Exercicio10\obj\Debug\net7.0\Exercicio10.AssemblyInfo.cs
+C:\Study\dotNet\Exercicios\Exercicio10\obj\Debug\net7.0\Exercicio10.csproj.CoreCompileInputs.cache
+C:\Study\dotNet\Exercicios\Exercicio10\obj\Debug\net7.0\Exercicio10.dll
+C:\Study\dotNet\Exercicios\Exercicio10\obj\Debug\net7.0\refint\Exercicio10.dll
+C:\Study\dotNet\Exercicios\Exercicio10\obj\Debug\net7.0\Exercicio10.pdb
+C:\Study\dotNet\Exercicios\Exercicio10\obj\Debug\net7.0\Exercicio10.genruntimeconfig.cache
+C:\Study\dotNet\Exercicios\Exercicio10\obj\Debug\net7.0\ref\Exercicio10.dll

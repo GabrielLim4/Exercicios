@@ -1,0 +1,15 @@
+C:\Study\dotNet\Exercicios\Exercicio18\bin\Debug\net7.0\Exercicio18.exe
+C:\Study\dotNet\Exercicios\Exercicio18\bin\Debug\net7.0\Exercicio18.deps.json
+C:\Study\dotNet\Exercicios\Exercicio18\bin\Debug\net7.0\Exercicio18.runtimeconfig.json
+C:\Study\dotNet\Exercicios\Exercicio18\bin\Debug\net7.0\Exercicio18.dll
+C:\Study\dotNet\Exercicios\Exercicio18\bin\Debug\net7.0\Exercicio18.pdb
+C:\Study\dotNet\Exercicios\Exercicio18\obj\Debug\net7.0\Exercicio18.csproj.AssemblyReference.cache
+C:\Study\dotNet\Exercicios\Exercicio18\obj\Debug\net7.0\Exercicio18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\dotNet\Exercicios\Exercicio18\obj\Debug\net7.0\Exercicio18.AssemblyInfoInputs.cache
+C:\Study\dotNet\Exercicios\Exercicio18\obj\Debug\net7.0\Exercicio18.AssemblyInfo.cs
+C:\Study\dotNet\Exercicios\Exercicio18\obj\Debug\net7.0\Exercicio18.csproj.CoreCompileInputs.cache
+C:\Study\dotNet\Exercicios\Exercicio18\obj\Debug\net7.0\Exercicio18.dll
+C:\Study\dotNet\Exercicios\Exercicio18\obj\Debug\net7.0\refint\Exercicio18.dll
+C:\Study\dotNet\Exercicios\Exercicio18\obj\Debug\net7.0\Exercicio18.pdb
+C:\Study\dotNet\Exercicios\Exercicio18\obj\Debug\net7.0\Exercicio18.genruntimeconfig.cache
+C:\Study\dotNet\Exercicios\Exercicio18\obj\Debug\net7.0\ref\Exercicio18.dll

@@ -1,0 +1,15 @@
+C:\Study\dotNet\Exercicios\Exercicio34\bin\Debug\net7.0\Exercicio34.exe
+C:\Study\dotNet\Exercicios\Exercicio34\bin\Debug\net7.0\Exercicio34.deps.json
+C:\Study\dotNet\Exercicios\Exercicio34\bin\Debug\net7.0\Exercicio34.runtimeconfig.json
+C:\Study\dotNet\Exercicios\Exercicio34\bin\Debug\net7.0\Exercicio34.dll
+C:\Study\dotNet\Exercicios\Exercicio34\bin\Debug\net7.0\Exercicio34.pdb
+C:\Study\dotNet\Exercicios\Exercicio34\obj\Debug\net7.0\Exercicio34.csproj.AssemblyReference.cache
+C:\Study\dotNet\Exercicios\Exercicio34\obj\Debug\net7.0\Exercicio34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\dotNet\Exercicios\Exercicio34\obj\Debug\net7.0\Exercicio34.AssemblyInfoInputs.cache
+C:\Study\dotNet\Exercicios\Exercicio34\obj\Debug\net7.0\Exercicio34.AssemblyInfo.cs
+C:\Study\dotNet\Exercicios\Exercicio34\obj\Debug\net7.0\Exercicio34.csproj.CoreCompileInputs.cache
+C:\Study\dotNet\Exercicios\Exercicio34\obj\Debug\net7.0\Exercicio34.dll
+C:\Study\dotNet\Exercicios\Exercicio34\obj\Debug\net7.0\refint\Exercicio34.dll
+C:\Study\dotNet\Exercicios\Exercicio34\obj\Debug\net7.0\Exercicio34.pdb
+C:\Study\dotNet\Exercicios\Exercicio34\obj\Debug\net7.0\Exercicio34.genruntimeconfig.cache
+C:\Study\dotNet\Exercicios\Exercicio34\obj\Debug\net7.0\ref\Exercicio34.dll

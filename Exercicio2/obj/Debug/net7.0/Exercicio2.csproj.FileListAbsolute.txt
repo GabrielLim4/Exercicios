@@ -1,0 +1,15 @@
+C:\Study\dotNet\Exercicios\Exercicio2\bin\Debug\net7.0\Exercicio2.exe
+C:\Study\dotNet\Exercicios\Exercicio2\bin\Debug\net7.0\Exercicio2.deps.json
+C:\Study\dotNet\Exercicios\Exercicio2\bin\Debug\net7.0\Exercicio2.runtimeconfig.json
+C:\Study\dotNet\Exercicios\Exercicio2\bin\Debug\net7.0\Exercicio2.dll
+C:\Study\dotNet\Exercicios\Exercicio2\bin\Debug\net7.0\Exercicio2.pdb
+C:\Study\dotNet\Exercicios\Exercicio2\obj\Debug\net7.0\Exercicio2.csproj.AssemblyReference.cache
+C:\Study\dotNet\Exercicios\Exercicio2\obj\Debug\net7.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\dotNet\Exercicios\Exercicio2\obj\Debug\net7.0\Exercicio2.AssemblyInfoInputs.cache
+C:\Study\dotNet\Exercicios\Exercicio2\obj\Debug\net7.0\Exercicio2.AssemblyInfo.cs
+C:\Study\dotNet\Exercicios\Exercicio2\obj\Debug\net7.0\Exercicio2.csproj.CoreCompileInputs.cache
+C:\Study\dotNet\Exercicios\Exercicio2\obj\Debug\net7.0\Exercicio2.dll
+C:\Study\dotNet\Exercicios\Exercicio2\obj\Debug\net7.0\refint\Exercicio2.dll
+C:\Study\dotNet\Exercicios\Exercicio2\obj\Debug\net7.0\Exercicio2.pdb
+C:\Study\dotNet\Exercicios\Exercicio2\obj\Debug\net7.0\Exercicio2.genruntimeconfig.cache
+C:\Study\dotNet\Exercicios\Exercicio2\obj\Debug\net7.0\ref\Exercicio2.dll

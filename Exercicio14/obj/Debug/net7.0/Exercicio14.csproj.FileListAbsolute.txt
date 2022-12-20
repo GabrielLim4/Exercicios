@@ -1,0 +1,15 @@
+C:\Study\dotNet\Exercicios\Exercicio14\bin\Debug\net7.0\Exercicio14.exe
+C:\Study\dotNet\Exercicios\Exercicio14\bin\Debug\net7.0\Exercicio14.deps.json
+C:\Study\dotNet\Exercicios\Exercicio14\bin\Debug\net7.0\Exercicio14.runtimeconfig.json
+C:\Study\dotNet\Exercicios\Exercicio14\bin\Debug\net7.0\Exercicio14.dll
+C:\Study\dotNet\Exercicios\Exercicio14\bin\Debug\net7.0\Exercicio14.pdb
+C:\Study\dotNet\Exercicios\Exercicio14\obj\Debug\net7.0\Exercicio14.csproj.AssemblyReference.cache
+C:\Study\dotNet\Exercicios\Exercicio14\obj\Debug\net7.0\Exercicio14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\dotNet\Exercicios\Exercicio14\obj\Debug\net7.0\Exercicio14.AssemblyInfoInputs.cache
+C:\Study\dotNet\Exercicios\Exercicio14\obj\Debug\net7.0\Exercicio14.AssemblyInfo.cs
+C:\Study\dotNet\Exercicios\Exercicio14\obj\Debug\net7.0\Exercicio14.csproj.CoreCompileInputs.cache
+C:\Study\dotNet\Exercicios\Exercicio14\obj\Debug\net7.0\Exercicio14.dll
+C:\Study\dotNet\Exercicios\Exercicio14\obj\Debug\net7.0\refint\Exercicio14.dll
+C:\Study\dotNet\Exercicios\Exercicio14\obj\Debug\net7.0\Exercicio14.pdb
+C:\Study\dotNet\Exercicios\Exercicio14\obj\Debug\net7.0\Exercicio14.genruntimeconfig.cache
+C:\Study\dotNet\Exercicios\Exercicio14\obj\Debug\net7.0\ref\Exercicio14.dll

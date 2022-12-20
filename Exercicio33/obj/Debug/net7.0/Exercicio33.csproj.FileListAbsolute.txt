@@ -1,0 +1,15 @@
+C:\Study\dotNet\Exercicios\Exercicio33\bin\Debug\net7.0\Exercicio33.exe
+C:\Study\dotNet\Exercicios\Exercicio33\bin\Debug\net7.0\Exercicio33.deps.json
+C:\Study\dotNet\Exercicios\Exercicio33\bin\Debug\net7.0\Exercicio33.runtimeconfig.json
+C:\Study\dotNet\Exercicios\Exercicio33\bin\Debug\net7.0\Exercicio33.dll
+C:\Study\dotNet\Exercicios\Exercicio33\bin\Debug\net7.0\Exercicio33.pdb
+C:\Study\dotNet\Exercicios\Exercicio33\obj\Debug\net7.0\Exercicio33.csproj.AssemblyReference.cache
+C:\Study\dotNet\Exercicios\Exercicio33\obj\Debug\net7.0\Exercicio33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\dotNet\Exercicios\Exercicio33\obj\Debug\net7.0\Exercicio33.AssemblyInfoInputs.cache
+C:\Study\dotNet\Exercicios\Exercicio33\obj\Debug\net7.0\Exercicio33.AssemblyInfo.cs
+C:\Study\dotNet\Exercicios\Exercicio33\obj\Debug\net7.0\Exercicio33.csproj.CoreCompileInputs.cache
+C:\Study\dotNet\Exercicios\Exercicio33\obj\Debug\net7.0\Exercicio33.dll
+C:\Study\dotNet\Exercicios\Exercicio33\obj\Debug\net7.0\refint\Exercicio33.dll
+C:\Study\dotNet\Exercicios\Exercicio33\obj\Debug\net7.0\Exercicio33.pdb
+C:\Study\dotNet\Exercicios\Exercicio33\obj\Debug\net7.0\Exercicio33.genruntimeconfig.cache
+C:\Study\dotNet\Exercicios\Exercicio33\obj\Debug\net7.0\ref\Exercicio33.dll

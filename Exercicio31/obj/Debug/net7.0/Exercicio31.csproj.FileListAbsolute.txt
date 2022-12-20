@@ -1,0 +1,15 @@
+C:\Study\dotNet\Exercicios\Exercicio31\bin\Debug\net7.0\Exercicio31.exe
+C:\Study\dotNet\Exercicios\Exercicio31\bin\Debug\net7.0\Exercicio31.deps.json
+C:\Study\dotNet\Exercicios\Exercicio31\bin\Debug\net7.0\Exercicio31.runtimeconfig.json
+C:\Study\dotNet\Exercicios\Exercicio31\bin\Debug\net7.0\Exercicio31.dll
+C:\Study\dotNet\Exercicios\Exercicio31\bin\Debug\net7.0\Exercicio31.pdb
+C:\Study\dotNet\Exercicios\Exercicio31\obj\Debug\net7.0\Exercicio31.csproj.AssemblyReference.cache
+C:\Study\dotNet\Exercicios\Exercicio31\obj\Debug\net7.0\Exercicio31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\dotNet\Exercicios\Exercicio31\obj\Debug\net7.0\Exercicio31.AssemblyInfoInputs.cache
+C:\Study\dotNet\Exercicios\Exercicio31\obj\Debug\net7.0\Exercicio31.AssemblyInfo.cs
+C:\Study\dotNet\Exercicios\Exercicio31\obj\Debug\net7.0\Exercicio31.csproj.CoreCompileInputs.cache
+C:\Study\dotNet\Exercicios\Exercicio31\obj\Debug\net7.0\Exercicio31.dll
+C:\Study\dotNet\Exercicios\Exercicio31\obj\Debug\net7.0\refint\Exercicio31.dll
+C:\Study\dotNet\Exercicios\Exercicio31\obj\Debug\net7.0\Exercicio31.pdb
+C:\Study\dotNet\Exercicios\Exercicio31\obj\Debug\net7.0\Exercicio31.genruntimeconfig.cache
+C:\Study\dotNet\Exercicios\Exercicio31\obj\Debug\net7.0\ref\Exercicio31.dll

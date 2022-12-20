@@ -1,0 +1,15 @@
+C:\Study\dotNet\Exercicios\Exercicio29\bin\Debug\net7.0\Exercicio29.exe
+C:\Study\dotNet\Exercicios\Exercicio29\bin\Debug\net7.0\Exercicio29.deps.json
+C:\Study\dotNet\Exercicios\Exercicio29\bin\Debug\net7.0\Exercicio29.runtimeconfig.json
+C:\Study\dotNet\Exercicios\Exercicio29\bin\Debug\net7.0\Exercicio29.dll
+C:\Study\dotNet\Exercicios\Exercicio29\bin\Debug\net7.0\Exercicio29.pdb
+C:\Study\dotNet\Exercicios\Exercicio29\obj\Debug\net7.0\Exercicio29.csproj.AssemblyReference.cache
+C:\Study\dotNet\Exercicios\Exercicio29\obj\Debug\net7.0\Exercicio29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\dotNet\Exercicios\Exercicio29\obj\Debug\net7.0\Exercicio29.AssemblyInfoInputs.cache
+C:\Study\dotNet\Exercicios\Exercicio29\obj\Debug\net7.0\Exercicio29.AssemblyInfo.cs
+C:\Study\dotNet\Exercicios\Exercicio29\obj\Debug\net7.0\Exercicio29.csproj.CoreCompileInputs.cache
+C:\Study\dotNet\Exercicios\Exercicio29\obj\Debug\net7.0\Exercicio29.dll
+C:\Study\dotNet\Exercicios\Exercicio29\obj\Debug\net7.0\refint\Exercicio29.dll
+C:\Study\dotNet\Exercicios\Exercicio29\obj\Debug\net7.0\Exercicio29.pdb
+C:\Study\dotNet\Exercicios\Exercicio29\obj\Debug\net7.0\Exercicio29.genruntimeconfig.cache
+C:\Study\dotNet\Exercicios\Exercicio29\obj\Debug\net7.0\ref\Exercicio29.dll
